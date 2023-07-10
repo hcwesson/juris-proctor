@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # This is a simple script that leverages GPT-4 to assist with the process of grading legal exams.
-# DISCLAIMER: All generated output MUST be carefully reviewed by an Actual Human Bean™
-#
-# It's ineffecient, rigid, and context-heavy; it expects a prompt split into segments in the following structure:
+# Expects a prompt split into segments according to the following structure:
 #
 #   exam_partN/prompt
 #   ├── exam_q.txt                      ➔  Exam question
@@ -14,8 +12,6 @@
 #   ├── system.txt                      ➔  System prompt
 #   └── user_prompt.txt                 ➔  User prompt
 #
-# Essentially, this was written as a one-shot script - I'd be amazed if I can ever repurpose this in the future,
-# let alone anyone else.
 
 import os, glob, shutil
 import json
