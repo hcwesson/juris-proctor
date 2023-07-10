@@ -1,3 +1,3 @@
 [submodule "juris-printer"]
 	path = juris_printer
-	url = ./juris_printer
+	url = git@github.com:hcwesson/juris-printer.git
