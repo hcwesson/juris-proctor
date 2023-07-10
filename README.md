@@ -1,5 +1,5 @@
 # juris-proctor
-This is a simple script that leverages GPT-4 to assist with the process of grading legal exams. It's ineffecient, context-heavy, and rigid. I primarly wrote it for fun with the goal of providing a marginal speed boost to an otherwise tedious task (albeit at a very costly rate - those tokens ain't cheap!) 
+This is a simple project that leverages GPT-4 to assist with the process of grading legal exams. It's ineffecient, context-heavy, and rigid; I primarly wrote it for fun with the goal of providing a marginal speed boost to an otherwise tedious task (albeit at a very costly rate - those tokens ain't cheap!) 
 
 This was essentially written as a one-and-done project, so I'd be amazed if I can use this again in the future - let alone anyone else.
 
