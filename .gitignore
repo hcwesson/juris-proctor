@@ -1,6 +1,6 @@
-evaluations/*
-completed_responses/*
-responses/*
+evaluations/*.txt
+completed_responses/*.txt
+responses/*.txt
 venv/
 exam_part1/**/*.txt
 exam_part2/**/*.txt
