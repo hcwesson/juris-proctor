@@ -1,0 +1,7 @@
+evaluations/*
+completed_responses/*
+responses/*
+venv/
+exam_part1/**/*.txt
+exam_part2/**/*.txt
+
